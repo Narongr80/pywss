@@ -5,3 +5,4 @@ description = "一个轻量级的 Python Web 框架，一站式集成 MCP SSE、
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# keep defaults in sync with the manifest
